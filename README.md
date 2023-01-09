@@ -1,7 +1,14 @@
+
+## My Projects
+
+### 💼 HometownHiring.com (2020 - Actively in Use)
+---
+A job board focused on small towns, starting where I grew up in Dubois County, Indiana. Think Indeed for small towns.
+
+  *Built with Javascript, Bootstrap, Firebase Realtime Database, Firebase Auth, & Stripe*
+![Hometown Hiring Demo](ezgif-1-8efd99c66f.gif)
+
 <!--
-### My Projects
-
-
 
 **DonaldBough/DonaldBough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
